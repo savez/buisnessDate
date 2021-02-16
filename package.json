@@ -1,0 +1,30 @@
+{
+  "name": "buisnessdate",
+  "version": "1.0.0",
+  "description": "manage date for buisness",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savez/buisnessDate.git"
+  },
+  "keywords": [
+    "momentjs",
+    "date",
+    "calendar"
+  ],
+  "author": "Saverio M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savez/buisnessDate/issues"
+  },
+  "homepage": "https://github.com/savez/buisnessDate#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
